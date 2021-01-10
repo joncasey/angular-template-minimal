@@ -104,6 +104,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "ng-min"
 }
