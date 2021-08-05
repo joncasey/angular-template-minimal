@@ -5,6 +5,4 @@ import { Component } from '@angular/core';
   template: `<router-outlet></router-outlet>`,
   styles: [],
 })
-export class AppComponent {
-  title = 'ng-min';
-}
+export class AppComponent {}
