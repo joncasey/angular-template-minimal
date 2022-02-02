@@ -4,8 +4,8 @@
   "scripts": {
     "start": "ng serve",
     "build": "ng build",
-    "watch": "ng build --watch --configuration development",
     "pretty": "prettier --write src/**/*.{js,json,scss,ts}",
+    "watch": "ng build --watch --configuration development",
     "ng": "ng"
   },
   "private": true,
@@ -23,8 +23,8 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~13.2.0",
-    "@angular/cli": "~13.2.0",
+    "@angular-devkit/build-angular": "~13.2.1",
+    "@angular/cli": "~13.2.1",
     "@angular/compiler-cli": "~13.2.0",
     "@types/node": "^12.11.1",
     "typescript": "~4.5.2"
